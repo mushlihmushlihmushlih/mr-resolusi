@@ -1,3 +1,4 @@
 resolusis saya
   - bisa ngoding
   - selesain back end developer roadmap
+  - kalo biso front end jugo
